@@ -1,0 +1,117 @@
+.full {
+  /* background-color: saddlebrown; */
+  background-image: url(Images/Dirt/Full.jpg);
+}
+.cracked-1 {
+  /* background-color: peru; */
+  background-image: url(Images/Dirt/Cracked1.jpg);
+}
+
+.cracked-2 {
+  /* background-color: sandybrown; */
+  background-image: url(Images/Dirt/Cracked2.jpg);
+}
+
+.cracked-3 {
+  /* background-color: burlywood; */
+  background-image: url(Images/Dirt/Cracked3.jpg);
+}
+
+.cracked-4 {
+  /* background-color: blanchedalmond; */
+  background-image: url(Images/Dirt/Cracked4.jpg);
+}
+
+.cracked-5 {
+  /* background-color: blanchedalmond; */
+  background-image: url(Images/Dirt/Cracked5.jpg);
+}
+
+.clear {
+  background-image: url(Images/Dirt/Clear.jpg);
+}
+
+.bstl {
+  background-image: url(Images/SB/BSTL.jpg);
+}
+
+.bstr {
+  background-image: url(Images/SB/BSTR.jpg);
+}
+
+.bsbl {
+  background-image: url(Images/SB/BSBL.jpg);
+}
+
+.bsbr {
+  background-image: url(Images/SB/BSBR.jpg);
+}
+
+.gstl {
+  background-image: url(Images/SG/GSTL.jpg);
+}
+
+.gstr {
+  background-image: url(Images/SG/GSTR.jpg);
+}
+
+.gsbl {
+  background-image: url(Images/SG/GSBL.jpg);
+}
+
+.gsbr {
+  background-image: url(Images/SG/GSBR.jpg);
+}
+
+.rstl {
+  background-image: url(Images/SR/RSTL.jpg);
+}
+
+.rstr {
+  background-image: url(Images/SR/RSTR.jpg);
+}
+
+.rsbl {
+  background-image: url(Images/SR/RSBL.jpg);
+}
+
+.rsbr {
+  background-image: url(Images/SR/RSBR.jpg);
+}
+
+[hack="tl"] {
+  border-top: 1px solid red;
+  border-left: 1px solid red;
+}
+
+[hack="tr"] {
+  border-top: 1px solid red;
+  border-right: 1px solid red;
+}
+
+[hack="bl"] {
+  border-bottom: 1px solid red;
+  border-left: 1px solid red;
+}
+
+[hack="br"] {
+  border-bottom: 1px solid red;
+  border-right: 1px solid red;
+}
+
+td {
+  height: 23px;
+  width: 23px;
+}
+
+table {
+  border-spacing: 0px;
+}
+
+.hidden {
+  display: none;
+}
+
+.shown{
+  display: block;
+}
